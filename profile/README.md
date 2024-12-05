@@ -10,7 +10,9 @@
 High Pixel é um projeto destinado a plataforma do MTA:SA, que tenta trazer o máximo de imersão e diversão para os jogadores.
 </p>
 
-<p align="center" display="flex">
+<p align="center">
 <strong>🚧 Em Desenvolvimento 🚧</strong>
+</p>
+<p align="center">
 <a href="https://discord.gg/TA2sYrAz">Clique aqui para entrar em nosso servidor do discord.</a>
 </p>
